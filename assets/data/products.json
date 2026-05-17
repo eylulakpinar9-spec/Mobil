@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "title": "Çalışma Masası",
+    "description": "ahmet.y@kampus.edu.tr",
+    "price": 350.0,
+    "originalPrice": 500.0,
+    "condition": "Az Kullanılmış",
+    "imageUrl": "https://images.unsplash.com/photo-1505843490538-5133c6c7d0e1?auto=format&fit=crop&w=600&q=80",
+    "badge": "İndirim",
+    "sellerName": "Ahmet Y.",
+    "category": "Mobilya"
+  },
+  {
+    "id": "2",
+    "title": "Matematik Ders Kitabı",
+    "description": "zeynep.k@kampus.edu.tr",
+    "price": 150.0,
+    "originalPrice": null,
+    "condition": "Temiz",
+    "imageUrl": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=600&q=80",
+    "badge": "Yeni Gibi",
+    "sellerName": "Zeynep K.",
+    "category": "Kitap"
+  },
+  {
+    "id": "3",
+    "title": "Retro Kamera",
+    "description": "burak.can@kampus.edu.tr",
+    "price": 850.0,
+    "originalPrice": 1200.0,
+    "condition": "Yıpranmış",
+    "imageUrl": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?auto=format&fit=crop&w=600&q=80",
+    "badge": "Acil",
+    "sellerName": "Burak Can",
+    "category": "Elektronik"
+  },
+  {
+    "id": "4",
+    "title": "Mini Buzdolabı",
+    "description": "elif.s@kampus.edu.tr",
+    "price": 0.0,
+    "originalPrice": 1500.0,
+    "condition": "Temiz",
+    "imageUrl": "https://images.unsplash.com/photo-1584269600519-112d071b4d16?auto=format&fit=crop&w=600&q=80",
+    "badge": "Ücretsiz",
+    "sellerName": "Elif S.",
+    "category": "Elektronik"
+  },
+  {
+    "id": "5",
+    "title": "Akustik Gitar",
+    "description": "ozan.m@kampus.edu.tr",
+    "price": 1200.0,
+    "originalPrice": 1800.0,
+    "condition": "Az Kullanılmış",
+    "imageUrl": "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?auto=format&fit=crop&w=600&q=80",
+    "badge": null,
+    "sellerName": "Ozan M.",
+    "category": "Hobi"
+  },
+  {
+    "id": "6",
+    "title": "Masa Lambası",
+    "description": "ayse.t@kampus.edu.tr",
+    "price": 120.0,
+    "originalPrice": 200.0,
+    "condition": "Yeni Gibi",
+    "imageUrl": "https://images.unsplash.com/photo-1513506003901-1e6a229e9d15?auto=format&fit=crop&w=600&q=80",
+    "badge": null,
+    "sellerName": "Ayşe T.",
+    "category": "Mobilya"
+  }
+]
